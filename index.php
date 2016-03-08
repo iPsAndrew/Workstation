@@ -43,6 +43,7 @@ $msg=isset($_GET['msg'])?"<p class='error'><img src='img/icon/ico_error.gif' />"
     <td colspan="2" align="center" valign="bottom"><h2>Модуль обліку замовлень клієнтів сервісного центру</h2><?= $msg;?></td>
   </tr>
   <tr>
+  	//1
     <td width="60" align="right">Логін:</td>
     <td><input type="text" name="login" class="txt" style="width:200px;"  /></td>
   </tr>
