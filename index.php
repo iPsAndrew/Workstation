@@ -59,4 +59,5 @@ $msg=isset($_GET['msg'])?"<p class='error'><img src='img/icon/ico_error.gif' />"
 </html>
 <?php
 }
+//123
 ?>
